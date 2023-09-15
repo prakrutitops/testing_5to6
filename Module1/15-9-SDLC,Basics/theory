@@ -1,0 +1,65 @@
+Github
+
+Repo-Create
+Folder
+Create File
+Upload File
+
+
+---------------------
+
+Testing ->
+
+Testing is a process used to identify correctness,completeness and quality of developed computer software.
+
+--------------
+Correctness
+Completeness
+Quality
+---------------
+
+Error->if developer makes an mistake then it's an error
+Defect->if Tester will find then it's a defect
+Bug->If development team will accept the defect then it will be a bug
+
+----------------------------------------------
+SDLC -> Software Development Lifecycle
+STLC -> Software Testing Lifecycle
+-----------------------------------------------
+
+SDLC ->
+
+Stages/Phases:
+
+Project Manager / Senior QA
+1) Requirement Gathering
+
+1)Functional Requirement -> Requirement which is possible to changes
+2)Non Functional Requirement -> Requirement which is not possible to changes
+
+2) Analysis -> What,How
+
+//Designer
+3) Design -> Web Designer,Graphic Designer
+
+//Developer
+4) Implementation-> Developer
+
+//QA,Tester 
+5) Testing-> 
+
+Market Production -> Launch
+
+//Developer,Tester
+6) Maintenance
+
+1)Corrective Maintenance-> Defect Correct
+2)Adaptive maintenance-> New Platform
+3)Perfective Maintenance-> 
+
+
+
+
+Written format ->documentation
+diagram format-> UML[Unified Modeling Language]
+
