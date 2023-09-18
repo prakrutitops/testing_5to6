@@ -1,0 +1,23 @@
+Requirement:
+
+Written format
+Diagarm Format [UML-Unified Modeling Language]
+
+Software
+Offline: Rfflow -> https://www.rff.com/download.php
+Online: Diagram.net -> https://app.diagrams.net/
+
+
+System ->
+
+start,end ->round symbol
+Process ->Rounded Rectangle
+Condition->Diamond
+Flow->Arrow Key
+Decision -> Rectangle
+
+
+age>18
+age>=18
+
+
