@@ -1,0 +1,56 @@
+Software Architecture Layers:
+
+Presentation->Represent[View]
+Application->Mediator between presentaion and data
+DataLayer->data layer will handle database[insert,update,delete]
+
+tiers
+
+1)1-tier ->Layer 3 in 1 box
+2)2-tier -> Layer 3 in 2 box
+3)3-tier -> Layer in 3 box
+
+N-Tier
+
+
+System Environment Flow ->
+
+Devlopment -> QA[Quality Analyst] -> UAT[User Acceptance Testing]-> Production
+
+
+Static Testing[Early Testing]->Fixed -> Without Code Executing
+
+Dynamic Testing ->Not Fixed -> With Code Executing
+
+
+7 Key Principle
+
+1) Testing Shows Presence of Defects
+
+2) Exhaustive Testing is Impossible 
+->Every Combination of input is not check to possible
+
+3) Early Testing
+-> It will Start ASAP
+
+4) Defect Clustering
+-> If You have any error make sure it will not spread in your system
+
+5) The Pesticide Paradox
+-> Regularly Review and Revised
+
+6) Testing is context dependent
+-> Every Website having a diffrent way to check
+
+7) Absence of Error Fallacy
+-> When Testing is Perfect but requirement does not match
+
+
+ 
+
+
+
+
+
+
+
