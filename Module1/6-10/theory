@@ -1,0 +1,39 @@
+SQL -> Structured query language
+
+Database:
+Mysql
+
+
+
+Database - Mysql
+
+Types of commmands in MYSQL
+
+1)DDL:Data Definition Language
+-> Create,alter,drop,truncate,rename
+
+2)DML:Data Manipulation Language
+->insert,update,delete
+
+3)DQL:Data Query Language
+->select
+
+4)DCL:Data Control Language/TCL
+->rollback,commit
+
+
+
+integer - data type - numeric -int
+varchar - data type - all character,number and symbols 
+
+
+Database
+Table
+Add Col
+Insert
+Update
+Delete
+
+
+CREATE DATABASE balaji
+
