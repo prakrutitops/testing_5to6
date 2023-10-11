@@ -1,0 +1,61 @@
+DDL
+create,alter,drop,truncate,rename
+
+DML
+insert,update,delete
+
+DQL
+select
+
+DCL
+rollback,commit
+
+Join:
+
+INNER JOIN-> SELECT * FROM location INNER JOIN details on location.id = details.id
+
+LEFT JOIN ->SELECT * FROM location LEFT JOIN details on location.id = details.id
+
+RIGHT JOIN-> SELECT * FROM location RIGHT JOIN details on location.id = details.id
+
+FULL JOIN->
+SELECT * FROM location LEFT JOIN details on location.id = details.id
+UNION
+SELECT * FROM location RIGHT JOIN details on location.id = details.id
+
+order by:
+DDL
+create,alter,drop,truncate,rename
+
+DML
+insert,update,delete
+
+DQL
+select
+
+DCL
+rollback,commit
+
+Join:
+
+INNER JOIN-> SELECT * FROM location INNER JOIN details on location.id = details.id
+
+LEFT JOIN ->SELECT * FROM location LEFT JOIN details on location.id = details.id
+
+RIGHT JOIN-> SELECT * FROM location RIGHT JOIN details on location.id = details.id
+
+FULL JOIN->
+SELECT * FROM location LEFT JOIN details on location.id = details.id
+UNION
+SELECT * FROM location RIGHT JOIN details on location.id = details.id
+
+order by : 
+select * from tablename order by colname ASC
+
+
+agrregate functions:int data type
+SELECT MAX(h_price) FROM products
+SELECT MIN(h_price) FROM products
+SELECT AVG(h_price) FROM products
+SELECT SUM(h_price) FROM products
+
